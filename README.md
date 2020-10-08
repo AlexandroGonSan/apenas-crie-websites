@@ -74,3 +74,9 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Escolha outra restrição e crie uma arte web inspirado por ela
 * Crie um conversor de medidas
 * Transforme o cartaz de um filme ou de um evento em um site responsivo
+* Crie um gerador de números de 49152 a 65535 incluso 49152 e 65535.
+Esses números são as portas dinâmicas, privadas ou/e efêmeras de acordo com
+[List of TCP and UDP port numbers: Dynamic, private or ephemeral ports](https://en.wikipedia.org/w/index.php?title=List_of_TCP_and_UDP_port_numbers&oldid=981997635#Dynamic,_private_or_ephemeral_ports)
+com backup em [archive.org](https://web.archive.org/web/20200929051325/https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Dynamic,_private_or_ephemeral_ports)
+com versão em português em [Lista de portas dos protocolos TCP e UDP: Portas 49152 a 65535](https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP#Portas_49152_a_65535)
+com backup em [archive.org](https://web.archive.org/web/20200803184859/https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP#Portas_49152_a_65535)
