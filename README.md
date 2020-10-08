@@ -81,3 +81,4 @@ com backup em [archive.org](https://web.archive.org/web/20200929051325/https://e
 com versão em português em [Lista de portas dos protocolos TCP e UDP: Portas 49152 a 65535](https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP#Portas_49152_a_65535)
 com backup em [archive.org](https://web.archive.org/web/20200803184859/https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP#Portas_49152_a_65535)
 * Examplo interativo do que cada comando faz, o comando e o resultado desse comando.
+  - plataforma comunitária onde as pessoas cadastram os comandos para serem executados e as saidas salvas para ficar de exemplo para aprendizado
